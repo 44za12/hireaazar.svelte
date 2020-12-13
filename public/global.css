@@ -1,0 +1,20 @@
+html , body {
+    height: 100%;
+    font-family: monospace !important;
+}
+.aazar-bg-primary{
+    background-color: black !important;
+    color: green !important;
+}
+.aazar-bg-2{
+    background-color: green !important;
+    color: black !important;
+}
+.heading {
+    color: black !important;
+    background-color: green !important;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
